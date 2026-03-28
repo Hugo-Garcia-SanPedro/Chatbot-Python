@@ -12,7 +12,11 @@ const PYTHON_API = 'http://127.0.0.1:8000';
 app.use(express.json());
 
 // Servir el frontend estático
-app.use(express.static(path.join(__dirname)));
+const frontendPath = path.join(__dirname, '..', 'frontend');
+app.use(express.static(frontendPath));
+app.get('/', (req, res) => {
+    res.sendFile(path.join(frontendPath, 'index.html'));
+});
 
 // Proxy de estado del modelo
 app.get('/status-proxy', async (req, res) => {
