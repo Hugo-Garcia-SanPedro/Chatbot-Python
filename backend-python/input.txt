@@ -18,14 +18,244 @@ Los libros, pensaba, eran como personas: algunos claros y directos, otros comple
 
 En términos generales, el lenguaje humano es un sistema extraordinariamente complejo. No solo se compone de reglas gramaticales y vocabulario, sino también de contexto cultural, intención comunicativa y experiencia personal. Una misma frase puede tener múltiples significados dependiendo de quién la diga, cómo se diga y en qué situación.
 
-Por ejemplo, la frase “está bien” puede expresar conformidad, resignación, sarcasmo o incluso enfado. Esta ambigüedad representa uno de los mayores desafíos en el desarrollo de sistemas de procesamiento de lenguaje natural.
+Por ejemplo, la frase "está bien" puede expresar conformidad, resignación, sarcasmo o incluso enfado. Esta ambigüedad representa uno de los mayores desafíos en el desarrollo de sistemas de procesamiento de lenguaje natural.
 
 A medida que avanzan las tecnologías, las inteligencias artificiales se vuelven más capaces de interpretar estas sutilezas. Sin embargo, aún existe una brecha entre la comprensión humana y la artificial. Reducir esa brecha implica no solo mejorar los algoritmos, sino también enriquecer los datos con los que se entrenan.
 
 De vuelta en la calle, María finalmente se detuvo. Sacó su teléfono y escribió un mensaje breve, pero significativo. A veces, las decisiones importantes no requieren largos discursos, sino claridad y determinación.
 
-El mensaje decía simplemente: “Hablemos hoy. Es importante.”
+El mensaje decía simplemente: "Hablemos hoy. Es importante."
 
 Lo envió y guardó el teléfono. Luego levantó la mirada y continuó caminando, esta vez con una ligera sensación de alivio.
 
 La ciudad seguía su ritmo habitual, ajena a los pequeños cambios que, sumados, podían transformar una vida entera.
+
+El mar tenía esa tarde un color extraño, entre verde y gris, como si el cielo se hubiera derramado sobre el agua sin terminar de mezclarse. Elena se sentó en las rocas y observó las olas durante un largo rato. No pensaba en nada concreto. Solo miraba. Había aprendido que a veces la mente necesita ese tipo de vacío, ese espacio sin palabras ni propósitos.
+
+Había llegado al pueblo hacía tres días, huyendo de una ciudad que la había consumido poco a poco. No fue una decisión dramática. Simplemente, una mañana empacó lo necesario y tomó el primer autobús hacia la costa. Nadie la esperaba allí. Eso era exactamente lo que necesitaba.
+
+El viento salado le revolvía el cabello y le traía el olor a algas y a madera mojada. A lo lejos, un pescador recogía sus redes con movimientos lentos y precisos, como si hubiera realizado ese gesto miles de veces y cada repetición lo acercara más a algo parecido a la perfección.
+
+Elena pensó en su trabajo. En los informes que debía entregar. En las reuniones que había cancelado. En los mensajes sin responder. Todo aquello parecía ahora tan distante, tan irrelevante frente a la inmensidad del mar, que casi le provocaba risa.
+
+Casi.
+
+Porque sabía que al regresar, todo volvería a su lugar. El escritorio, las llamadas, las expectativas. La vida moderna tenía esa capacidad cruel: podía pausarse, pero nunca borrarse.
+
+Sin embargo, algo en ella había cambiado. No sabía exactamente qué. Pero lo sentía, como se siente el cambio de estación antes de que el termómetro lo confirme.
+
+Aquella noche, en la pequeña pensión donde se alojaba, escribió en su diario por primera vez en años. No escribió sobre sus problemas ni sobre sus planes. Escribió sobre el color del mar. Sobre el pescador. Sobre el olor a sal. Sobre el silencio que, paradójicamente, le había dicho más que cualquier conversación reciente.
+
+El lenguaje, pensó mientras cerraba el cuaderno, era también una forma de ver.
+
+En el laboratorio, todo olía a plástico nuevo y a café frío. Rodrigo llevaba doce horas frente a la pantalla y sus ojos empezaban a protestar. Los datos que tenía delante eran fascinantes pero también frustrantes: mostraban patrones claros hasta cierto punto y luego se disolvían en ruido, como una melodía que de repente pierde el hilo.
+
+Su compañera, Sofía, entró con dos vasos de agua y los dejó sobre la mesa sin decir nada. Llevaban juntos en ese proyecto casi dos años y habían desarrollado un lenguaje propio, hecho de silencios, gestos y miradas que reemplazaban muchas de las palabras que habrían necesitado al principio.
+
+—¿Ves algo? —preguntó ella finalmente, mirando la pantalla por encima de su hombro.
+
+—Veo demasiado —respondió él—. El problema es saber qué ignorar.
+
+Sofía asintió. Conocía bien esa sensación. En ciencia, como en la vida, la habilidad más difícil no era encontrar información sino filtrarla. Distinguir lo relevante de lo accesorio. Lo real de lo aparente.
+
+—Tómate un descanso —dijo—. A veces la respuesta aparece cuando dejas de buscarla.
+
+Rodrigo se recostó en la silla y miró el techo. Tenía razón. Siempre la tenía en esas cosas. Era una de esas personas que parecían entender el ritmo natural de las cosas, sin forzarlas.
+
+Cerró los ojos un momento. En la oscuridad de sus párpados, los datos seguían moviéndose, reorganizándose. Y entonces, casi sin quererlo, vio algo. Una conexión que había pasado por alto. Simple, casi obvia en retrospectiva, como suelen ser las mejores ideas.
+
+Se incorporó de golpe y empezó a teclear.
+
+—¿Lo encontraste? —preguntó Sofía desde el otro lado de la habitación.
+
+—Creo que sí —respondió, sin apartar la vista de la pantalla—. Creo que sí.
+
+El tren salía a las seis de la mañana. Andrés llegó a la estación con tiempo suficiente, lo que era inusual en él. Normalmente corría, llegaba justo o directamente perdía lo que tenía que tomar. Pero aquella mañana algo lo había despertado antes de que sonara el despertador, como si su cuerpo supiera que ese día era diferente.
+
+Buscó un asiento junto a la ventana. Afuera, la ciudad todavía dormía bajo una luz azulada y tenue. Los edificios pasaban lentos al principio, luego más rápido, hasta que la ciudad desapareció y comenzaron los campos.
+
+Le gustaban los campos. Le recordaban a su infancia, a los veranos en casa de sus abuelos, al olor a tierra húmeda por la mañana y al sonido de los grillos por la noche. Había crecido en una ciudad y siempre había tenido esa sensación de que le faltaba algo, como quien lee un libro al que le han arrancado algunas páginas.
+
+Frente a él viajaba una mujer con un niño pequeño. El niño miraba por la ventana con los ojos muy abiertos, señalando cosas que solo él podía ver o que consideraba dignas de atención. Un árbol. Una vaca. Un tractor. Cada cosa era un descubrimiento, una novedad absoluta.
+
+Andrés lo observó durante un rato. Había algo conmovedor en esa capacidad de asombro. Los adultos la perdían sin darse cuenta, tan ocupados en llegar a algún lado que olvidaban mirar por la ventana.
+
+El tren se detuvo en una estación pequeña. Subió un hombre mayor con una maleta enorme que apenas podía con ella. Nadie se levantó a ayudarle. Andrés dudó un segundo y luego se puso de pie.
+
+—Permítame —dijo.
+
+El hombre lo miró con sorpresa, como si la amabilidad fuera algo inesperado, casi sospechoso.
+
+—Gracias —dijo finalmente, con una voz que llevaba el peso de muchos años.
+
+El tren volvió a moverse. Los campos continuaban. El niño seguía señalando cosas. Y Andrés pensó que quizás el día iba a ser mejor de lo que había imaginado.
+
+Hay palabras que no se olvidan. No porque sean especialmente hermosas o profundas, sino porque llegaron en el momento exacto en que las necesitabas, cuando estabas en ese punto frágil en que una sola frase puede cambiar el rumbo de todo.
+
+A Carmen le pasó con su profesora de literatura en el instituto. Tenía quince años y escribía en cuadernos que escondía debajo del colchón. Escribía mal, como escribe todo el mundo cuando empieza: con exceso, con torpeza, con una urgencia que no sabía bien cómo canalizar.
+
+Un día, la profesora le devolvió un texto y había escrito en el margen, con letra pequeña y azul: "Aquí hay algo real. Sigue."
+
+Solo eso. Tres palabras y un punto.
+
+Pero Carmen las leyó diez veces. Veinte. Las memorizó sin querer. Y siguió escribiendo. Siguió durante años, a través de épocas buenas y malas, de períodos en que las palabras salían solas y otros en que había que arrancarlas con esfuerzo. Siempre volvía a ese margen, a esa letra azul, a esa certeza prestada que con el tiempo se fue volviendo propia.
+
+Muchos años después, cuando ya publicaba y la gente le preguntaba cómo había empezado, ella respondía siempre lo mismo: con tres palabras escritas en un margen.
+
+El lenguaje tiene ese poder. No siempre necesita grandes discursos. A veces basta con lo justo.
+
+La lluvia cayó toda la tarde sin pausa. Desde la ventana del apartamento, todo parecía filtrado por un cristal empañado: los coches, los paraguas, los peatones que corrían buscando refugio. El mundo exterior se volvía borroso, casi irreal, y eso hacía que el interior pareciera más cálido, más propio.
+
+Lucas preparó té y se sentó en el sofá con un libro que llevaba semanas sin abrir. No era que no tuviera tiempo. Era que siempre encontraba algo más urgente, algo que hacer primero antes de sentarse a leer. Pero aquella tarde la lluvia le había dado una excusa perfecta para no ir a ningún lado.
+
+Las primeras páginas le costaron. Su mente seguía queriendo escaparse hacia otras cosas: el trabajo del lunes, una conversación pendiente, la lista de compras. Pero poco a poco, con la paciencia que requiere todo reencuentro, fue entrando en el texto.
+
+A la hora, ya no oía la lluvia.
+
+Eso era lo que más le gustaba de leer: esa capacidad de ausentarse del mundo sin moverse del sitio. Era un tipo de viaje silencioso y privado, sin maletas ni itinerarios, sin horarios ni retrasos.
+
+Cuando oscureció y tuvo que encender la lámpara, se dio cuenta de que llevaba horas en el sofá. Se estiró, miró por la ventana. La lluvia había parado. Las calles brillaban húmedas bajo las farolas.
+
+Cerró el libro con cuidado, marcando la página. Mañana seguiría. Eso también era bueno: tener un lugar al que volver.
+
+El mercado olía a especias, a fruta madura y a pan recién horneado. Isabel recorrió los puestos despacio, sin prisa, tocando aquí y allá, preguntando precios que ya sabía, saludando a vendedores que conocía de años. El mercado era para ella algo más que un lugar donde comprar. Era un espacio social, casi ritual, donde la ciudad mostraba una cara más humana y cercana.
+
+—¿Cómo están los tomates hoy? —preguntó en el puesto de verduras.
+
+—De primera —respondió el vendedor, un hombre de brazos gruesos y voz ronca—. Llegaron esta mañana del sur. Pruebe uno.
+
+Isabel probó. Estaban buenos, con ese sabor concentrado que solo tienen los tomates de temporada, nada que ver con esos insípidos que vendían en los supermercados todo el año.
+
+—Me llevo dos kilos.
+
+Siguió caminando. En el puesto de quesos se entretuvo más tiempo, escuchando al quesero explicar la diferencia entre dos variedades que a simple vista parecían idénticas pero que, según él, eran completamente distintas en textura, maduración y sabor. Isabel escuchaba con genuino interés. Le gustaba que la gente hablara de lo que conocía bien. Había algo honesto en eso.
+
+Al salir del mercado, con la bolsa pesada y el ánimo ligero, pensó que había días en que las cosas pequeñas eran suficientes. Más que suficientes.
+
+El abuelo tenía la costumbre de contar historias después de cenar. No historias inventadas, sino recuerdos: fragmentos de una vida larga que iba sacando uno a uno, como quien revuelve en el fondo de un cajón y encuentra cosas que había olvidado que guardaba.
+
+Los nietos le escuchaban con atención desigual, dependiendo de la historia y del humor del momento. Pero había ciertos relatos que siempre conseguían que todos se quedaran en silencio: los de la guerra, los del hambre, los de las decisiones tomadas en condiciones que ninguno de ellos podría imaginar realmente.
+
+—¿Tenías miedo? —preguntó una vez la nieta mayor.
+
+El abuelo tardó en responder. Se miró las manos durante un momento, esas manos grandes y llenas de historia.
+
+—Siempre —dijo al fin—. Pero el miedo no te paraliza si tienes algo que proteger.
+
+Nadie dijo nada. La televisión estaba apagada. El reloj de la pared marcaba sus segundos. Y en esa pausa, algo pasó de una generación a otra sin necesidad de más palabras.
+
+Eso también era lenguaje. El silencio después de una verdad.
+
+Construir algo con las manos tiene una satisfacción que pocas cosas igualan. Miguel lo había descubierto tarde, a los cuarenta y dos años, cuando compró una casa en ruinas en un pueblo pequeño y decidió rehabilitarla él mismo, sin saber prácticamente nada de construcción.
+
+Al principio todo fue errores. Cemento mal mezclado. Paredes que no quedaban rectas. Piezas que no encajaban. Cada problema le llevaba horas resolver, a base de tutoriales, consultas a vecinos más experimentados y mucha prueba y error.
+
+Pero con el tiempo fue aprendiendo. No solo técnicas, sino también paciencia. La capacidad de mirar un problema grande y dividirlo en partes pequeñas. La disciplina de trabajar despacio cuando todo en ti quiere correr.
+
+Un año después, la casa tenía agua caliente, suelo nuevo y ventanas que cerraban bien. No era perfecta. Tenía sus imperfecciones, sus rincones torcidos, sus soluciones improvisadas que cualquier profesional habría hecho de otro modo. Pero era suya, en un sentido más profundo que el puramente legal.
+
+Había algo de él en cada pared. En cada esquina. En cada arreglo chapucero que había costado tres intentos y dos viajes a la ferretería.
+
+Eso, pensó mientras pintaba la fachada un domingo de primavera, era lo más parecido que había sentido a entender para qué servía el tiempo.
+
+La música empezó a las nueve de la noche. Desde el piso de abajo llegaba una mezcla de jazz y conversaciones, risas y el tintineo de vasos. Paula intentó seguir leyendo pero era imposible concentrarse. Bajó a ver qué pasaba.
+
+Sus vecinos celebraban algo. No sabía qué exactamente. Los conocía poco, solo de cruzarse en el ascensor y de algún saludo en el pasillo. Eran una pareja mayor, simpáticos, de esos que siempre tienen algo amable que decir aunque no tengan nada concreto que comentar.
+
+Llamó al timbre sin saber muy bien qué iba a decir. La puerta se abrió y apareció el vecino con una copa en la mano y una expresión genuinamente alegre.
+
+—¡Paula! Pasa, pasa. Hoy cumplimos cuarenta años casados.
+
+Algo en Paula se ablandó antes incluso de cruzar el umbral.
+
+Pasó. Conoció a sus hijos, a sus nietos, a amigos de décadas. Comió tarta. Escuchó historias. Se quedó hasta medianoche.
+
+Al subir a su apartamento, la música había parado pero ella todavía la llevaba dentro, mezclada con algo que tardó en identificar: una mezcla de alegría y melancolía, de esas que solo produce haber visto algo verdadero.
+
+El mundo estaba lleno de historias así. Solo había que llamar al timbre.
+
+Pensar es, en cierto modo, hablar con uno mismo. Ese flujo interno de palabras, imágenes y sensaciones que acompaña cada momento de vigilia es tan constante que casi no lo percibimos, como no percibimos el ruido de fondo de un lugar en el que llevamos mucho tiempo.
+
+Pero si te detienes y prestas atención, puedes observarlo. Puedes notar cómo una idea lleva a otra, cómo un recuerdo aparece sin ser llamado, cómo el lenguaje interior a veces corre delante del pensamiento y otras veces llega después, intentando poner nombre a algo que ya has sentido o decidido sin palabras.
+
+Los filósofos llevan siglos preguntándose si es posible pensar sin lenguaje. Si hay formas de cognición que existen antes o más allá de las palabras. Algunos dicen que sí, que hay un pensamiento más primitivo, hecho de imágenes y emociones brutas. Otros argumentan que el lenguaje no solo expresa el pensamiento sino que lo constituye, que sin palabras no hay ideas sino solo sensaciones.
+
+La discusión no está resuelta. Quizás no lo esté nunca. Pero hay algo fascinante en plantearla: nos obliga a mirar de cerca algo que usamos constantemente sin examinar.
+
+El lenguaje es la herramienta más sofisticada que la humanidad ha desarrollado. Y como toda herramienta, su poder depende de quien la usa y del propósito con que la emplea.
+
+Puede servir para construir o para destruir. Para unir o para separar. Para iluminar o para oscurecer. Para decir la verdad o para disimularla con maestría.
+
+En el fondo, cada vez que hablamos o escribimos, tomamos una pequeña decisión ética: qué decir, cómo decirlo, qué omitir. Y esas decisiones, acumuladas a lo largo de una vida, configuran no solo cómo nos comunicamos, sino quiénes somos.
+
+El sol de mediodía caía vertical sobre la plaza desierta. Los turistas habían buscado refugio en los bares y los locales dormitaban tras las persianas cerradas. Solo un perro viejo dormitaba a la sombra de una fuente seca, ajeno al calor y a todo lo demás.
+
+Carlos cruzó la plaza deprisa, con la camisa pegada a la espalda. Llevaba un sobre en la mano que debía entregar antes de las dos. No sabía exactamente qué contenía. Su jefe le había dicho que era importante, urgente, que no podía enviarse por correo electrónico ni por mensajería. Tenía que ser en mano. Esas instrucciones, tan anticuadas, le habían despertado una curiosidad que intentaba no alimentar.
+
+Llegó al edificio indicado. Subió tres pisos por una escalera de mármol fresco. Llamó a una puerta de madera oscura.
+
+Abrió una mujer de unos sesenta años, elegante y directa.
+
+—¿De parte de quién?
+
+Carlos dio el nombre de su jefe. La mujer asintió, tomó el sobre sin abrirlo y cerró la puerta.
+
+Eso fue todo.
+
+Mientras bajaba las escaleras, Carlos pensó que la mayoría de las historias importantes que mueven el mundo son así: invisibles para quienes las transportan.
+
+Aprender un idioma nuevo es como construir una segunda mente. Al principio todo es torpe y lento: buscas palabras que no encuentras, construyes frases que suenan extrañas, cometes errores que te hacen sonrojar. Pero poco a poco, con la práctica y la exposición, algo cambia. Las palabras empiezan a aparecer sin esfuerzo. Las frases fluyen. Y en algún momento que no puedes precisar exactamente, comienzas a pensar en ese idioma.
+
+Eso es lo extraordinario. No solo que puedas comunicarte, sino que la nueva lengua te da acceso a una forma diferente de ver el mundo. Cada idioma lleva incorporada una visión, una forma de ordenar la realidad, de nombrar lo que tiene nombre y de silenciar lo que no lo tiene.
+
+Hay idiomas que tienen palabras para conceptos que el español no puede expresar en un solo término. El portugués tiene saudade, esa nostalgia melancólica por algo que se ama y se ha perdido o que quizás nunca existió. El alemán tiene Weltschmerz, el dolor que produce comparar el mundo como es con el mundo como debería ser. El japonés tiene ma, ese espacio vacío entre las cosas que también forma parte de la realidad.
+
+Aprender esas palabras no es solo ampliar el vocabulario. Es aprender a ver lo que antes no veías, a sentir lo que antes no tenías cómo nombrar.
+
+Por eso dicen que cada idioma que muere lleva consigo una forma de ver el mundo. Y por eso tiene sentido que la humanidad haga esfuerzos por preservar las lenguas en peligro de extinción. No solo como patrimonio cultural, sino como instrumentos de pensamiento que el mundo no puede permitirse perder.
+
+La tarde caía sobre los tejados con esa luz dorada y oblicua que solo existe en otoño, cuando el sol ya no tiene fuerza para mantenerse alto pero todavía sabe iluminar con elegancia. Desde la terraza, se veían los árboles del parque cambiando de color: algunos ya completamente amarillos, otros en ese punto intermedio entre el verde y el ocre que es quizás el más bonito de todos.
+
+Beatriz tenía en la mano un vaso de vino que había olvidado beber. Llevaba así un rato, inmóvil, mirando sin ver exactamente nada en particular. Era uno de esos estados que no tienen nombre preciso: no era tristeza ni alegría, no era preocupación ni tranquilidad. Era simplemente estar, con la mente flotando sin amarras.
+
+Su teléfono vibró. Lo miró. Un mensaje de trabajo que podía esperar. Lo dejó boca abajo sobre la mesa.
+
+Pensó en lo raro que era el tiempo. Cómo había momentos que se alargaban infinitamente y otros que pasaban sin que te dieras cuenta. La infancia que parecía eterna y de la que apenas quedan imágenes concretas. Las vacaciones que duran dos semanas y se sienten como un suspiro. Las conversaciones que duran horas y que luego no recuerdas en qué momento empezaron.
+
+Bebió el vino. Ya estaba templado, pero seguía siendo bueno.
+
+Abajo, en el parque, dos niños corrían alrededor de un banco persiguiéndose. Sus voces subían hasta la terraza fragmentadas por la distancia. Beatriz los observó un momento, luego volvió a mirar los árboles.
+
+El otoño, pensó, era la estación más honesta. No prometía nada. Solo mostraba las cosas como eran: hermosas y pasajeras.
+
+Había una vez una ciudad donde todos hablaban al mismo tiempo. No porque fueran descorteses, sino porque tenían tanto que decir que les resultaba imposible esperar. Las calles eran un murmullo constante, los mercados un estruendo de voces entrelazadas, las casas un zumbido suave que se extendía por las noches incluso cuando la gente dormía, porque también en sueños hablaban.
+
+Un día llegó a la ciudad un viajero que venía de un lugar donde el silencio era la norma. Se llamaba Bruno y nunca había oído tanto ruido en su vida. Al principio le abrumó. Luego le pareció caótico. Pero después de algunos días, empezó a escuchar de otra manera.
+
+Se dio cuenta de que dentro de aquel ruido había orden. Que las voces no se interrumpían sino que se complementaban. Que la gente no hablaba para ser escuchada necesariamente, sino porque el lenguaje era para ellos una forma de respirar, de estar vivos, de confirmar que el mundo existía y ellos con él.
+
+Cuando Bruno partió, llevaba consigo algo que no había traído: la costumbre de hablar un poco más. No sin sentido, sino con esa generosidad que tiene quien entiende que las palabras no se gastan.
+
+Y en la ciudad, nadie notó que se había ido. Pero todos, de algún modo, lo recordaban. Porque había escuchado. Y eso, en un lugar donde todos hablaban, era el regalo más raro y más valioso que alguien podía ofrecer.
+
+La escritura es una tecnología. Lo fue desde el principio: una manera de almacenar información fuera del cuerpo, de transmitirla más allá del alcance de la voz, de preservarla más allá de la duración de una vida.
+
+Las primeras escrituras no eran literatura. Eran listas. Inventarios de grano, registros de intercambios comerciales, cuentas de ganado. Lo práctico antes que lo bello. La utilidad antes que el arte.
+
+Pero en algún momento alguien se dio cuenta de que esos mismos signos podían usarse para algo más. Para contar historias. Para preservar conocimiento. Para comunicarse con alguien que no estaba presente o que aún no había nacido.
+
+Esa fue una de las revoluciones más silenciosas y más profundas de la historia humana. Porque la escritura cambió no solo cómo nos comunicábamos, sino cómo pensábamos. Permitió acumular conocimiento de una generación a otra sin depender de la memoria. Permitió la ciencia, la filosofía, la historia tal como las entendemos. Permitió, en cierto modo, la civilización.
+
+Hoy escribimos más que nunca. Mensajes, correos, publicaciones, comentarios. Una cantidad de texto que habría resultado inconcebible para cualquier generación anterior. Y sin embargo, quizás escribimos con menos conciencia. Con menos atención al peso de las palabras.
+
+Recuperar esa atención no es un lujo. Es una necesidad. Porque las palabras que elegimos para describir el mundo acaban, en parte, determinando qué mundo es posible.
+
+El río pasaba lento bajo el puente de piedra. En sus orillas crecía una vegetación densa y oscura que en verano daba sombra y en invierno parecía esperar con paciencia el regreso del calor. El agua llevaba consigo ramas pequeñas, hojas, a veces algo que había caído desde los márgenes: una lata, un trozo de plástico, el recuerdo inevitable de que el mundo moderno llegaba a todos los rincones.
+
+Pero si mirabas solo el agua y los árboles y el cielo reflejado, podías imaginar que el tiempo se había detenido. Que el río era el mismo de hace cien años. Que las mismas preguntas que te hacías tú se las habían hecho otros antes, apoyados en el mismo pretil de piedra, mirando la misma corriente.
+
+Había algo consolador en esa continuidad. En saber que los grandes temas no cambian. El amor y la pérdida. El miedo y el coraje. La soledad y la necesidad de los otros. El paso del tiempo y la imposibilidad de detenerlo.
+
+Cada generación los enfrenta de nuevo, como si fueran novedades, cuando en realidad son la condición humana de siempre. Y quizás eso también era una forma de consuelo: no estar solos en las preguntas, aunque las respuestas haya que encontrarlas cada uno por su cuenta.
+
+El río seguía. Como siempre. Como siempre seguirá.
