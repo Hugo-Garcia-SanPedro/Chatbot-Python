@@ -3,26 +3,108 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>IA Local Chat</title>
+    <title>NeuralChat — IA Local</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600&family=Syne:wght@400;600;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="chat-container">
-        <header class="chat-header">
-            <h2>✨ Mi IA Local</h2>
-            <p>Arquitectura Transformer</p>
-        </header>
-        
-        <div class="chat-box" id="chat-box">
-            <div class="message ai-message">
-                ¡Hola! Soy tu modelo local. Mis parámetros están listos. ¿De qué quieres hablar?
-            </div>
-        </div>
+    <div class="noise-overlay"></div>
 
-        <div class="input-area">
-            <input type="text" id="user-input" placeholder="Escribe un mensaje..." autocomplete="off" />
-            <button id="send-btn">Enviar</button>
-        </div>
+    <div class="app-shell">
+
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="sidebar-logo">
+                <span class="logo-icon">◈</span>
+                <span class="logo-text">NeuralChat</span>
+            </div>
+
+            <div class="model-card">
+                <div class="model-status">
+                    <span class="status-dot" id="status-dot"></span>
+                    <span class="status-text" id="status-text">Conectando...</span>
+                </div>
+                <div class="model-stats" id="model-stats">
+                    <div class="stat-row">
+                        <span class="stat-label">Parámetros</span>
+                        <span class="stat-value" id="stat-params">—</span>
+                    </div>
+                    <div class="stat-row">
+                        <span class="stat-label">Capas</span>
+                        <span class="stat-value" id="stat-layers">—</span>
+                    </div>
+                    <div class="stat-row">
+                        <span class="stat-label">Contexto</span>
+                        <span class="stat-value" id="stat-context">—</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="controls-section">
+                <label class="control-label">Temperatura</label>
+                <div class="slider-row">
+                    <input type="range" id="temperature" min="0.3" max="1.5" step="0.05" value="0.8" class="slider">
+                    <span class="slider-value" id="temp-value">0.8</span>
+                </div>
+                <p class="control-hint">Menor = más coherente · Mayor = más creativo</p>
+
+                <label class="control-label" style="margin-top:20px">Tokens a generar</label>
+                <div class="slider-row">
+                    <input type="range" id="max-tokens" min="30" max="300" step="10" value="150" class="slider">
+                    <span class="slider-value" id="tokens-value">150</span>
+                </div>
+            </div>
+
+            <div class="sidebar-footer">
+                <button class="clear-btn" id="clear-btn">
+                    <span>⊘</span> Limpiar chat
+                </button>
+            </div>
+        </aside>
+
+        <!-- Main chat area -->
+        <main class="chat-area">
+            <header class="chat-header">
+                <div class="header-left">
+                    <h1>Sesión activa</h1>
+                    <span class="header-sub" id="session-time"></span>
+                </div>
+                <div class="header-right">
+                    <div class="token-counter" id="token-counter" style="display:none">
+                        <span id="last-tokens">—</span> tokens
+                    </div>
+                </div>
+            </header>
+
+            <div class="messages-wrap" id="chat-box">
+                <div class="message ai-message">
+                    <div class="msg-avatar">◈</div>
+                    <div class="msg-body">
+                        <div class="msg-meta">NeuralChat <span class="msg-time">ahora</span></div>
+                        <div class="msg-text">Hola. Soy tu modelo Transformer entrenado localmente. Escribe algo y continuaré el texto a partir de tu prompt.</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="input-dock">
+                <div class="input-wrapper">
+                    <textarea
+                        id="user-input"
+                        placeholder="Escribe un prompt para continuar..."
+                        rows="1"
+                        autocomplete="off"
+                    ></textarea>
+                    <button id="send-btn" class="send-btn" title="Enviar (Enter)">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                            <line x1="22" y1="2" x2="11" y2="13"></line>
+                            <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                        </svg>
+                    </button>
+                </div>
+                <p class="input-hint">Enter para enviar · Shift+Enter para nueva línea</p>
+            </div>
+        </main>
     </div>
 
     <script src="script.js"></script>
